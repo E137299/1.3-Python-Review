@@ -80,6 +80,7 @@ Write a Python script to determine whether a chess queen can move from one squar
 - The program receives four integers, each between 1 and 8:
     - The first two integers represent the column and row number of the first square.
     - The last two integers represent the column and row number of the second square.
+    
 **Move Determination**
 - A queen on a chessboard can move any number of squares horizontally, vertically, or diagonally.
 - Determine if the queen can move from the first square to the second square in one move.
