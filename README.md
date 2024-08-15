@@ -3,6 +3,7 @@
 ## Python Review Notes
 [Notes](https://drive.google.com/drive/folders/1qjB9FMWxZHhXOouDr0D22zN7S0-rF4_w?usp=sharing)
 
+<br></br><br></br>
 ## Ascending
 **Objective**: Write a Python script that checks if the digits of a three-digit integer are in strictly ascending order from left to right.
 
@@ -25,6 +26,7 @@
 - For X = 321, the output should be False because the digits are in descending order.
 - For X = 132, the output should be False because the digits are not in ascending order.
 
+<br></br><br></br>
 ## Count Equal Integers
 **Objective**
 Write a Python script to determine how many of three given integers are equal to each other.
@@ -46,6 +48,7 @@ Write a Python script to determine how many of three given integers are equal to
 - For input 4, 4, 7, the output should be 2 because two of the integers are equal, and the third one is different.
 - For input 1, 2, 3, the output should be 0 because all three integers are different.
 
+<br></br><br></br>
 ##  Chessboard
 **Objective**
 Write a Python script to determine if two given squares on a chessboard are painted the same color.
@@ -69,6 +72,7 @@ Write a Python script to determine if two given squares on a chessboard are pain
 - For input 1, 1, 2, 2, the output should be "YES" because both squares (1, 1) and (2, 2) are black.
 - For input 1, 1, 2, 3, the output should be "NO" because square (1, 1) is black and square (2, 3) is white.
 
+<br></br><br></br>
 ## Queen Move
 **Objective**:
 Write a Python script to determine whether a chess queen can move from one square to another on the chessboard in a single move.
